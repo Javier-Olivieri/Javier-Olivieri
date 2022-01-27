@@ -21,7 +21,11 @@ Tecnologías
 <img aling="center" alt="javi-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img aling="center" alt="javi-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 <img aling="center" alt="javi-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-<img aling="center" alt="javi-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img aling="center" alt="javi-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">    
+<img aling="center" alt="javi-json" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
+<img aling="center" alt="javi-ajax" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg">
+
+
 
 </div>
 <br>
