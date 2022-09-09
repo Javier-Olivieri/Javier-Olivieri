@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Javier-Olivieri
-- 👀 I’m interested in Front End development
-- 🌱 I’m currently learning Full Stack Developer
+- 👀 I’m Full Stack Engineer
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Javier-Olivieri&show_icons=true&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier-Olivieri&layout=compact&langs_count=16&theme=dark" />
